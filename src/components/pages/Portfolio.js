@@ -15,7 +15,7 @@ function GroupExample() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary" href="https://foodfind.tech/">FoodFind</Button>
+        <Button variant="secondary" href="https://foodfind.tech/" target="_blank">FoodFind</Button>
         </Card.Footer>
       </Card>
       <Card>
@@ -27,7 +27,7 @@ function GroupExample() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary" href="https://rose-to-rough.herokuapp.com/">Rosé to Rouch</Button>
+        <Button variant="secondary" href="https://rose-to-rough.herokuapp.com/" target="_blank">Rosé to Rouch</Button>
         </Card.Footer>
       </Card>
       <Card>
@@ -39,7 +39,7 @@ function GroupExample() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary" href="https://github.com/harrj396" >GitHub</Button>
+        <Button variant="secondary" href="https://github.com/harrj396" target="_blank" >GitHub</Button>
         </Card.Footer>
       </Card>
     </CardGroup>
