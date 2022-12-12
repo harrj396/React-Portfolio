@@ -7,7 +7,7 @@ function GroupExample() {
   return (
     <CardGroup>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+        <Card.Img variant="top" src="https://via.placeholder.com/800x600" />
         <Card.Body>
           <Card.Title>Card title</Card.Title>
           <Card.Text>
@@ -20,16 +20,15 @@ function GroupExample() {
         </Card.Footer>
       </Card>
       <Card>
-        <Card.Img variant="top" src="holder.js/100px160" />
+        <Card.Img variant="top" src="https://via.placeholder.com/800x600" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>Rosé to Rough</Card.Title>
           <Card.Text>
-            This card has supporting text below as a natural lead-in to
-            additional content.{' '}
+            This website was created by a team of four people.  It is a wine review website connecting to a MySQL database I operate.  This site allows
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary">Go somewhere</Button>
+        <Button variant="secondary" href="https://rose-to-rough.herokuapp.com/">Rosé to Rouch</Button>
         </Card.Footer>
       </Card>
       <Card>
@@ -41,7 +40,7 @@ function GroupExample() {
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary">Go somewhere</Button>
+        <Button variant="secondary" href="https://github.com/harrj396" >GitHub</Button>
         </Card.Footer>
       </Card>
     </CardGroup>
