@@ -9,14 +9,13 @@ function GroupExample() {
       <Card>
         <Card.Img variant="top" src="https://via.placeholder.com/800x600" />
         <Card.Body>
-          <Card.Title>Card title</Card.Title>
+          <Card.Title>FoodFind</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
+            This project connects to two remote APIs and will search for two random related recipes for you to try.  I have also attached a custom URL to the site for easier access.
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary">Go somewhere</Button>
+        <Button variant="secondary" href="https://foodfind.tech/">FoodFind</Button>
         </Card.Footer>
       </Card>
       <Card>
@@ -24,7 +23,7 @@ function GroupExample() {
         <Card.Body>
           <Card.Title>Rosé to Rough</Card.Title>
           <Card.Text>
-            This website was created by a team of four people.  It is a wine review website connecting to a MySQL database I operate.  This site allows
+            This website was created by a team of four people.  It is a wine review website connecting to a MySQL database I operate of over 2000 independant wine reviews.
           </Card.Text>
         </Card.Body>
         <Card.Footer>
