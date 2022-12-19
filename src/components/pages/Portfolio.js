@@ -36,11 +36,11 @@ function GroupExample() {
         <Card.Body>
           <Card.Title>Jubilee</Card.Title>
           <Card.Text>
-           Jubilee is a site where you can create a custom vinyl using the Spotify API.  I will be using the Stripe API to allow for payments
+            This project allows you to create a custom vinyl record by connecting to the Spotify API.  You're able to sign in and save albums, which will then connect to the stripe API and allow for purchases.
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary" href="https://github.com/harrj396/jubilee" target="_blank" >Jubilee</Button>
+        <Button variant="secondary" href="https://jubilee.herokuapp.com/" target="_blank" >Jubilee</Button>
         </Card.Footer>
       </Card>
     </CardGroup>
