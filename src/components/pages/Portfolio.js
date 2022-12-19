@@ -30,6 +30,7 @@ function GroupExample() {
         <Button variant="secondary" href="https://rose-to-rough.herokuapp.com/" target="_blank">Rosé to Rouch</Button>
         </Card.Footer>
       </Card>
+      {/* react project */}
       <Card>
         <Card.Img variant="top" src="https://via.placeholder.com/800x600" />
         <Card.Body>
