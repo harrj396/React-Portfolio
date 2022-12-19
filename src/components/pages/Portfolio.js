@@ -33,13 +33,13 @@ function GroupExample() {
       <Card>
         <Card.Img variant="top" src="https://via.placeholder.com/800x600" />
         <Card.Body>
-          <Card.Title>Project 3</Card.Title>
+          <Card.Title>Jubilee</Card.Title>
           <Card.Text>
-            This is a placeholder for my third project currently in development.
+           Jubilee is a site where you can create a custom vinyl using the Spotify API.  I will be using the Stripe API to allow for payments
           </Card.Text>
         </Card.Body>
         <Card.Footer>
-        <Button variant="secondary" href="https://github.com/harrj396" target="_blank" >GitHub</Button>
+        <Button variant="secondary" href="https://github.com/harrj396/jubilee" target="_blank" >Jubilee</Button>
         </Card.Footer>
       </Card>
     </CardGroup>
