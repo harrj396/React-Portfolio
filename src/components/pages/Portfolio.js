@@ -36,7 +36,7 @@ function GroupExample() {
         <Card.Body>
           <Card.Title>Jubilee</Card.Title>
           <Card.Text>
-            This project allows you to create a custom vinyl record by connecting to the Spotify API.  You're able to sign in and save albums, which will then connect to the stripe API and allow for purchases.
+            This project will allow you to create a custom vinyl record by connecting to the Spotify API.  You're able to sign in and save albums, which will then connect to the stripe API and allow for purchases.
           </Card.Text>
         </Card.Body>
         <Card.Footer>
